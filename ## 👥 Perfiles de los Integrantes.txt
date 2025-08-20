@@ -1,0 +1,47 @@
+## 👥 Perfiles de los Integrantes
+
+### 1. Nombre Completo
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre1@ejemplo.com
+- 💻 **Rol en el proyecto:** Coordinador del equipo
+- 🛠️ **Habilidades:** Git, programación en Python, redacción de reportes
+
+---
+
+### 2. Nombre Completo
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre2@ejemplo.com
+- 💻 **Rol en el proyecto:** Encargado de documentación
+- 🛠️ **Habilidades:** Markdown, manejo de repositorios, diagramación
+
+---
+
+### 3. Nombre Completo
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre3@ejemplo.com
+- 💻 **Rol en el proyecto:** Programador principal
+- 🛠️ **Habilidades:** C++, Arduino, diseño de algoritmos
+
+---
+
+### 4. Nombre Completo
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre4@ejemplo.com
+- 💻 **Rol en el proyecto:** Diseñador del prototipo
+- 🛠️ **Habilidades:** CAD, impresión 3D, documentación gráfica
+
+---
+
+### 5. Nombre Completo
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre5@ejemplo.com
+- 💻 **Rol en el proyecto:** Encargado de pruebas
+- 🛠️ **Habilidades:** Testing, manejo de equipos de laboratorio, análisis de resultados
+
+---
+
+### 6. Nombre Completo
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre6@ejemplo.com
+- 💻 **Rol en el proyecto:** Responsable de presentación
+- 🛠️ **Habilidades:** Comunicación, elaboración de diapositivas, liderazgo
