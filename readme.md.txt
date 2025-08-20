@@ -1,4 +1,1 @@
-hola
-
-
-fundamentos de biodiseño
+GRUPO 6 
