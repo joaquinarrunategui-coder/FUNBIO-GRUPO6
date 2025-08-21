@@ -1,56 +1,86 @@
-GRUPO 6- FUNBIO
-https://github.com/joaquinarrunategui-coder/FUNBIO-GRUPO6/blob/main/Imagenes/foto%20grupal.jpg
----
+# 📌 Presentación del Equipo
 
-
-Joaquin Alfredo Arrunategui Vila
-![Foto de Nombre1](assets/img/nombre1.jpg)
-🎓 Carrera: Ingeniería Biomédica
-📧 Correo: joaquin.arrunategui@upch.pe
-💻 Rol en el proyecto: Coordinador del equipo
-🛠️ Habilidades: Git, Python, redacción de reportes
+Bienvenidos a la presentación oficial de nuestro equipo.  
+Aquí encontrarás información sobre cada integrante, sus roles y responsabilidades.  
 
 ---
 
-Ricardo Junior Chavesta Plasencia
-![Foto de Nombre2](assets/img/nombre2.jpg)
-🎓 Carrera: Ingeniería Biomédica
-📧 Correo: ricardo.chavesta@upch.pe
-💻 Rol en el proyecto: Encargado de documentación
-🛠️ Habilidades: Markdown, organización de repositorios
+## 📸 Foto Grupal
+
+![Foto Grupal](img/fotogrupal.jpg)  
 
 ---
 
-Renato Almeyda Ochoa
-![Foto de Nombre3](assets/img/nombre3.jpg)
-🎓 Carrera: Ingeniería Biomédica
-📧 Correo: renato.almeyda@upch.pe
-💻 Rol en el proyecto: Programador principal
-🛠️ Habilidades: C++, Arduino, algoritmos
+## 👥 Integrantes
+
+### 🧑 Joaquin Alfredo Arrunategui Vila
+![Foto Joaquin](img/joaquin.jpg)
+
+- **Edad:** 18 años  
+- **Sobre mí:** texto1  
+- **Rol:** rol1  
+- **Responsabilidades:**  
+  - responsabilidad 1.1  
+  - responsabilidad 1.2  
 
 ---
 
-Angélica Gabriela Campos Zapata
-![Foto de Nombre4](assets/img/nombre4.jpg)
-🎓 Carrera: Ingeniería Biomédica
-📧 Correo: aaangelica.campos.z@gmail.com
-💻 Rol en el proyecto: Diseñador del prototipo
-🛠️ Habilidades: impresión 3D, documentación gráfica
+### 🧑 Ricardo Junior Chavesta Plasencia
+![Foto Ricardo](img/ricardo.jpg)
+
+- **Edad:** 18 años  
+- **Sobre mí:** texto2  
+- **Rol:** rol2  
+- **Responsabilidades:**  
+  - responsabilidad 2.1  
+  - responsabilidad 2.2  
 
 ---
 
-Criss Susan Castro Lozano
-![Foto de Nombre5](assets/img/nombre5.jpg)
-🎓 Carrera: Ingeniería Biomédica
-📧 Correo: criss.castro@upch.pe
-💻 Rol en el proyecto: Encargado de pruebas
-🛠️ Habilidades: Testing, análisis de resultados
+### 🧑 Renato Almeyda Ochoa
+![Foto Renato](img/renato.jpg)
+
+- **Edad:** 18 años  
+- **Sobre mí:** texto3  
+- **Rol:** rol3  
+- **Responsabilidades:**  
+  - responsabilidad 3.1  
+  - responsabilidad 3.2  
 
 ---
 
-Sarai Louise Castro Saenz
-![Foto de Nombre6](assets/img/nombre6.jpg)
-🎓 Carrera: Ingeniería Biomédica
-📧 Correo: sarai.castro@upch.pe
-💻 Rol en el proyecto: Responsable de presentación
-🛠️ Habilidades: Comunicación, diapositivas, liderazgo
+### 👩 Angélica Gabriela Campos Zapata
+![Foto Angélica](img/angelica.jpg)
+
+- **Edad:** 18 años  
+- **Sobre mí:** texto4  
+- **Rol:** rol4  
+- **Responsabilidades:**  
+  - responsabilidad 4.1  
+  - responsabilidad 4.2  
+
+---
+
+### 👩 Criss Susan Castro Lozano
+![Foto Criss](img/cris.jpg)
+
+- **Edad:** 18 años  
+- **Sobre mí:** texto5  
+- **Rol:** rol5  
+- **Responsabilidades:**  
+  - responsabilidad 5.1  
+  - responsabilidad 5.2  
+
+---
+
+### 👩 Sarai Louise Castro Saenz
+![Foto Sarai](img/sarai.jpg)
+
+- **Edad:** 18 años  
+- **Sobre mí:** texto6  
+- **Rol:** rol6  
+- **Responsabilidades:**  
+  - responsabilidad 6.1  
+  - responsabilidad 6.2  
+
+---
