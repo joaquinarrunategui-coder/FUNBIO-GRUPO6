@@ -62,7 +62,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 👩 Criss Susan Castro Lozano
-![Foto Criss](Imagenes/cris.jpeg)
+![Foto Criss](Imagenes/chris.jpeg)
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto5  
