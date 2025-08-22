@@ -16,7 +16,7 @@
 
 ---
 
-### 3. Nombre Completo
+### 3. Renato Almeyda Ochoa
 - 🎓 **Carrera:** Ingeniería Biomédica
 - 📧 **Correo:** nombre3@ejemplo.com
 - 💻 **Rol en el proyecto:** Programador principal
