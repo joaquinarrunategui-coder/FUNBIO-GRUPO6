@@ -8,7 +8,7 @@
 
 ---
 
-### 2. Nombre Completo
+### 2. Ricardo Chavesta
 - 🎓 **Carrera:** Ingeniería Biomédica
 - 📧 **Correo:** nombre2@ejemplo.com
 - 💻 **Rol en el proyecto:** Encargado de documentación
