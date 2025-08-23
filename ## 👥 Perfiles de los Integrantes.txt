@@ -1,6 +1,6 @@
 ## 👥 Perfiles de los Integrantes
 
-### 1. Nombre Completo
+### 1. Joaquin Alfredo Arrunategui Vila
 - 🎓 **Carrera:** Ingeniería Biomédica
 - 📧 **Correo:** nombre1@ejemplo.com
 - 💻 **Rol en el proyecto:** Coordinador del equipo
@@ -8,7 +8,7 @@
 
 ---
 
-### 2. Ricardo Chavesta
+### 2. Ricardo Junior Chavesta Plasencia
 - 🎓 **Carrera:** Ingeniería Biomédica
 - 📧 **Correo:** nombre2@ejemplo.com
 - 💻 **Rol en el proyecto:** Encargado de documentación
@@ -18,13 +18,13 @@
 
 ### 3. Renato Almeyda Ochoa
 - 🎓 **Carrera:** Ingeniería Biomédica
-- 📧 **Correo:** nombre3@ejemplo.com
+- 📧 **Correo:** renato.almeyda@upch.pe
 - 💻 **Rol en el proyecto:** Programador principal
 - 🛠️ **Habilidades:** C++, Arduino, diseño de algoritmos
 
 ---
 
-### 4. Nombre Completo
+### 4. Angelica Gabriela Campos Zapata
 - 🎓 **Carrera:** Ingeniería Biomédica
 - 📧 **Correo:** nombre4@ejemplo.com
 - 💻 **Rol en el proyecto:** Diseñador del prototipo
@@ -32,7 +32,7 @@
 
 ---
 
-### 5. Nombre Completo
+### 5. Sarai Louise Castro Saenz
 - 🎓 **Carrera:** Ingeniería Biomédica
 - 📧 **Correo:** nombre5@ejemplo.com
 - 💻 **Rol en el proyecto:** Encargado de pruebas
@@ -40,7 +40,7 @@
 
 ---
 
-### 6. Nombre Completo
+### 6. Criss Susan Castro Lozano
 - 🎓 **Carrera:** Ingeniería Biomédica
 - 📧 **Correo:** nombre6@ejemplo.com
 - 💻 **Rol en el proyecto:** Responsable de presentación
