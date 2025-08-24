@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="[https://fundbio.github.io/images/pucp_upch.png]>
+</p>
+
+[![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
+---
+
+
+
 # 📌 Presentación del Equipo
 
 Bienvenidos a la presentación oficial de nuestro equipo.  
