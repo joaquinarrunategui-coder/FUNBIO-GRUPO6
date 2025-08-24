@@ -2,7 +2,7 @@
   <img src="[https://fundbio.github.io/images/pucp_upch.png]>
 </p>
 
-[![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
+[![OIP.jpg](https://i.postimg.cc/4NhPY1vy/OIP.jpg)](https://postimg.cc/xcnM7M4V)
 ---
 
 
