@@ -4,7 +4,6 @@
 
 [![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
 ---
-![OIP](https://github.com/user-attachments/assets/a2f6c4b9-5fd8-4dd2-a1f4-04d9f3d57c80)
 
 
 
