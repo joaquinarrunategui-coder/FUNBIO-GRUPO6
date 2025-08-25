@@ -25,7 +25,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ## 👥 Integrantes
 
 ### 🧑 Joaquin Alfredo Arrunategui Vila
-![Foto Joaquin](Imagenes/joaquin.jpeg)
+![Foto Joaquin](Imagenes/joaquin.jpeg) style="width: 150px"></p>
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto1  
@@ -38,7 +38,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 🧑 Ricardo Junior Chavesta Plasencia
-![Foto Ricardo](Imagenes/ricardo.jpeg)
+![Foto Ricardo](Imagenes/ricardo.jpeg) style="width: 150px"></p>
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto2  
@@ -51,7 +51,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 🧑 Renato Almeyda Ochoa
-![Foto Renato](Imagenes/renato.jpeg)
+![Foto Renato](Imagenes/renato.jpeg) style="width: 150px"></p>
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto3  
@@ -64,7 +64,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 👩 Angélica Gabriela Campos Zapata
-![Foto Angélica](Imagenes/angelica.jpeg)
+![Foto Angélica](Imagenes/angelica.jpeg) style="width: 150px"></p>
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto4  
@@ -77,7 +77,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 👩 Criss Susan Castro Lozano
-![Foto Criss](Imagenes/chris.jpeg)
+![Foto Criss](Imagenes/chris.jpeg) style="width: 150px"></p>
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto5  
@@ -90,7 +90,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 👩 Sarai Louise Castro Saenz
-![Foto Sarai](Imagenes/sarai.jpeg)
+![Foto Sarai](Imagenes/sarai.jpeg) style="width: 150px"></p>
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto6  
