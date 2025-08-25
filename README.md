@@ -29,10 +29,11 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto1  
-- **Rol:** rol1  
+- **Rol:** Programador  
 - **Responsabilidades:**  
-  - responsabilidad 1.1  
-  - responsabilidad 1.2  
+  - Desarrollar la lógica central del sistema.  
+  - Implementar funciones y depurar errores.
+  - Integrar software con la parte electrónica
 
 ---
 
@@ -41,10 +42,11 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto2  
-- **Rol:** rol2  
+- **Rol:** Ensamble  
 - **Responsabilidades:**  
-  - responsabilidad 2.1  
-  - responsabilidad 2.2  
+  - Montar y ensamblar las diferentes partes del prototipo.  
+  - Integrar piezas electrónicas, 3D y estructurales.
+  - Asegurar la estabilidad y funcionamiento general del dispositivo.
 
 ---
 
@@ -53,10 +55,11 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto3  
-- **Rol:** rol3  
+- **Rol:** Electrónica  
 - **Responsabilidades:**  
-  - responsabilidad 3.1  
-  - responsabilidad 3.2  
+  - Diseñar y desarrollar el sistema eléctrico/electrónico del prototipo.
+  - Seleccionar y conectar sensores, actuadores y placas.
+  - Verificar el correcto funcionamiento de los circuitos.
 
 ---
 
@@ -65,10 +68,11 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto4  
-- **Rol:** rol4  
+- **Rol:** Investigación y documentación + Repositorio  
 - **Responsabilidades:**  
-  - responsabilidad 4.1  
-  - responsabilidad 4.2  
+  - Buscar y Analizar información científica/técnica relevante..  
+  - Redactar README, informes y presentaciones.
+  - Mantener actualizado y organizado el repositorio en GitHub.
 
 ---
 
@@ -77,10 +81,11 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto5  
-- **Rol:** rol5  
+- **Rol:** Validación y pruebas
 - **Responsabilidades:**  
-  - responsabilidad 5.1  
-  - responsabilidad 5.2  
+  - Realizar pruebas funcionales del sistema.
+  - Evaluar el rendimiento y registrar resultados.
+  - Retroalimentar al equipo para mejorar el prototipo.
 
 ---
 
@@ -89,9 +94,10 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 - **Edad:** 18 años  
 - **Sobre mí:** texto6  
-- **Rol:** rol6  
+- **Rol:** Diseño y modelado 3D 
 - **Responsabilidades:**  
-  - responsabilidad 6.1  
-  - responsabilidad 6.2  
+  - Elabora modelos tridimensionales en software CAD.
+  - Optimizar piezas para impresión o prototipado físico.
+  - Colaborar en la integración mecánica del dispositivo.
 
 ---
