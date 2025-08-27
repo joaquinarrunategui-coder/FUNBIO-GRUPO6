@@ -27,7 +27,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ### 🧑 Joaquin Alfredo Arrunategui Vila
 ![Foto Joaquin](Imagenes/joaquin.jpeg) 
 
-- **Edad:** 18 años    
+- **Edad:** 19 años    
 - **Rol:** Programador  
 - **Responsabilidades:**  
   - Desarrollar la lógica central del sistema.  
@@ -75,7 +75,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ### 👩 Criss Susan Castro Lozano
 ![Foto Criss](Imagenes/chris.jpeg) 
 
-- **Edad:** 18 años  
+- **Edad:** 21 años  
 - **Rol:** Validación y pruebas
 - **Responsabilidades:**  
   - Realizar pruebas funcionales del sistema.
@@ -87,7 +87,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ### 👩 Sarai Louise Castro Saenz
 ![Foto Sarai](Imagenes/sarai.jpeg) 
 
-- **Edad:** 18 años    
+- **Edad:** 21 años    
 - **Rol:** Diseño y modelado 3D 
 - **Responsabilidades:**  
   - Elabora modelos tridimensionales en software CAD.
