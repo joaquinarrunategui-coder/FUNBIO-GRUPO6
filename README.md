@@ -27,8 +27,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ### 🧑 Joaquin Alfredo Arrunategui Vila
 ![Foto Joaquin](Imagenes/joaquin.jpeg) 
 
-- **Edad:** 18 años  
-- **Sobre mí:** texto1  
+- **Edad:** 18 años    
 - **Rol:** Programador  
 - **Responsabilidades:**  
   - Desarrollar la lógica central del sistema.  
@@ -40,8 +39,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ### 🧑 Ricardo Junior Chavesta Plasencia
 ![Foto Ricardo](Imagenes/ricardo.jpeg) 
 
-- **Edad:** 18 años  
-- **Sobre mí:** texto2  
+- **Edad:** 18 años   
 - **Rol:** Ensamble  
 - **Responsabilidades:**  
   - Montar y ensamblar las diferentes partes del prototipo.  
@@ -53,8 +51,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ### 🧑 Renato Almeyda Ochoa
 ![Foto Renato](Imagenes/renato.jpeg) 
 
-- **Edad:** 18 años  
-- **Sobre mí:** texto3  
+- **Edad:** 18 años    
 - **Rol:** Electrónica  
 - **Responsabilidades:**  
   - Diseñar y desarrollar el sistema eléctrico/electrónico del prototipo.
@@ -67,7 +64,6 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ![Foto Angélica](Imagenes/angelica.jpeg) 
 
 - **Edad:** 18 años  
-- **Sobre mí:** texto4  
 - **Rol:** Investigación y documentación + Repositorio  
 - **Responsabilidades:**  
   - Buscar y Analizar información científica/técnica relevante..  
@@ -80,7 +76,6 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ![Foto Criss](Imagenes/chris.jpeg) 
 
 - **Edad:** 18 años  
-- **Sobre mí:** texto5  
 - **Rol:** Validación y pruebas
 - **Responsabilidades:**  
   - Realizar pruebas funcionales del sistema.
@@ -92,8 +87,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ### 👩 Sarai Louise Castro Saenz
 ![Foto Sarai](Imagenes/sarai.jpeg) 
 
-- **Edad:** 18 años  
-- **Sobre mí:** texto6  
+- **Edad:** 18 años    
 - **Rol:** Diseño y modelado 3D 
 - **Responsabilidades:**  
   - Elabora modelos tridimensionales en software CAD.
