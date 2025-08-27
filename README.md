@@ -28,7 +28,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ![Foto Joaquin](Imagenes/joaquin.jpeg) 
 
 - **Edad:** 19 años    
-- **Rol:** Programador  
+- **Rol:** Electronica  
 - **Responsabilidades:**  
   - Desarrollar la lógica central del sistema.  
   - Implementar funciones y depurar errores.
@@ -40,7 +40,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ![Foto Ricardo](Imagenes/ricardo.jpeg) 
 
 - **Edad:** 18 años   
-- **Rol:** Ensamble  
+- **Rol:** Programador  
 - **Responsabilidades:**  
   - Montar y ensamblar las diferentes partes del prototipo.  
   - Integrar piezas electrónicas, 3D y estructurales.
@@ -52,7 +52,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ![Foto Renato](Imagenes/renato.jpeg) 
 
 - **Edad:** 18 años    
-- **Rol:** Electrónica  
+- **Rol:** Ensamblaje  
 - **Responsabilidades:**  
   - Diseñar y desarrollar el sistema eléctrico/electrónico del prototipo.
   - Seleccionar y conectar sensores, actuadores y placas.
