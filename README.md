@@ -25,7 +25,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ## 👥 Integrantes
 
 ### 🧑 Joaquin Alfredo Arrunategui Vila
-![Foto Joaquin](Imagenes/joaquin.jpeg)
+![Foto Joaquin](Imagenes/joaquin.jpg)
 
 - **Edad:** 19 años    
 - **Rol:** Electronica  
@@ -37,7 +37,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 🧑 Ricardo Junior Chavesta Plasencia
-![Foto Ricardo](Imagenes/ricardo.jpeg) 
+![Foto Ricardo](Imagenes/ricardo.jpg) 
 
 - **Edad:** 18 años   
 - **Rol:** Programador  
@@ -49,7 +49,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 🧑 Renato Almeyda Ochoa
-![Foto Renato](Imagenes/renato.jpeg) 
+![Foto Renato](Imagenes/renato.jpg) 
 
 - **Edad:** 18 años    
 - **Rol:** Ensamblaje  
@@ -61,7 +61,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 👩 Angélica Gabriela Campos Zapata
-![Foto Angélica](Imagenes/angelica.jpeg) 
+![Foto Angélica](Imagenes/angelica.jpg) 
 
 - **Edad:** 18 años  
 - **Rol:** Investigación y documentación + Repositorio  
@@ -73,7 +73,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 👩 Criss Susan Castro Lozano
-![Foto Criss](Imagenes/chris.jpeg) 
+![Foto Criss](Imagenes/criss.jpg) 
 
 - **Edad:** 21 años  
 - **Rol:** Validación y pruebas
@@ -85,7 +85,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ---
 
 ### 👩 Sarai Louise Castro Saenz
-![Foto Sarai](Imagenes/sarai.jpeg) 
+![Foto Sarai](Imagenes/sarai.jpg) 
 
 - **Edad:** 21 años    
 - **Rol:** Diseño y modelado 3D 
