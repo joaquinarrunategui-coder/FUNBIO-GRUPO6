@@ -1,0 +1,47 @@
+## 👥 Perfiles de los Integrantes
+
+### 1. Joaquin Alfredo Arrunategui Vila
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre1@ejemplo.com
+- 💻 **Rol en el proyecto:** Coordinador del equipo
+- 🛠️ **Habilidades:** Git, programación en Python, redacción de reportes
+
+---
+
+### 2. Ricardo Junior Chavesta Plasencia
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre2@ejemplo.com
+- 💻 **Rol en el proyecto:** Encargado de documentación
+- 🛠️ **Habilidades:** Markdown, manejo de repositorios, diagramación
+
+---
+
+### 3. Renato Almeyda Ochoa
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** renato.almeyda@upch.pe
+- 💻 **Rol en el proyecto:** Programador principal
+- 🛠️ **Habilidades:** C++, Arduino, diseño de algoritmos
+
+---
+
+### 4. Angelica Gabriela Campos Zapata
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre4@ejemplo.com
+- 💻 **Rol en el proyecto:** Diseñador del prototipo
+- 🛠️ **Habilidades:** CAD, impresión 3D, documentación gráfica
+
+---
+
+### 5. Sarai Louise Castro Saenz
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre5@ejemplo.com
+- 💻 **Rol en el proyecto:** Encargado de pruebas
+- 🛠️ **Habilidades:** Testing, manejo de equipos de laboratorio, análisis de resultados
+
+---
+
+### 6. Criss Susan Castro Lozano
+- 🎓 **Carrera:** Ingeniería Biomédica
+- 📧 **Correo:** nombre6@ejemplo.com
+- 💻 **Rol en el proyecto:** Responsable de presentación
+- 🛠️ **Habilidades:** Comunicación, elaboración de diapositivas, liderazgo
