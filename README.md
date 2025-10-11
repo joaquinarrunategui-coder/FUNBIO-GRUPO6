@@ -18,14 +18,14 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 ## 📸 Foto Grupal
 
-![Foto Grupal](Imagenes/Foto Grupal.jpg)  
+![Foto Grupal](Imagenes/FotoGrupal.jpg)  
 
 ---
 
 ## 👥 Integrantes
 
 ### 🧑 Joaquin Alfredo Arrunategui Vila
-![Foto Joaquin](Imagenes/joaquin.jpeg) 
+![Foto Joaquin](Imagenes/joaquin.jpeg)
 
 - **Edad:** 19 años    
 - **Rol:** Electronica  
